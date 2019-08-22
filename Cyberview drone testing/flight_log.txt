@@ -1,0 +1,135 @@
+
+Connecting to vehicle on: /dev/ttyACM0
+Waiting for mode change
+Current vehicle mode: VehicleMode:POSHOLD
+Waiting for mode change
+Current vehicle mode: VehicleMode:POSHOLD
+Waiting for mode change
+Current vehicle mode: VehicleMode:POSHOLD
+Waiting for mode change
+Current vehicle mode: VehicleMode:POSHOLD
+Waiting for mode change
+Current vehicle mode: VehicleMode:POSHOLD
+Waiting for mode change
+Current vehicle mode: VehicleMode:POSHOLD
+Waiting for mode change
+Current vehicle mode: VehicleMode:POSHOLD
+Waiting for mode change
+Current vehicle mode: VehicleMode:POSHOLD
+Waiting for mode change
+Current vehicle mode: VehicleMode:POSHOLD
+Waiting for mode change
+Current vehicle mode: VehicleMode:POSHOLD
+Vehicle mode changed to GUIDED
+Basic pre-arm checks
+Arming motors
+ Waiting for arming...
+New Home Location: LocationGlobal:lat=2.9096759,lon=101.6553783,alt=32.7
+Check new home location: LocationGlobal:lat=2.9096758365631104,lon=101.65538024902344,alt=32.70000076293945
+Taking off!
+Altitude: 0.011000
+Altitude: 0.556000
+Altitude: 2.792000
+Altitude: 3.105000
+Reached target altitude
+
+Loading Mission
+
+Received GPS Points
+
+There are 5 Target Locations
+
+Heading to Target Location 1: LocationGlobalRelative:lat=2.909549,lon=101.65529649999999,alt=3.0
+Current Location: LocationGlobalRelative:lat=2.909675,lon=101.6553782,alt=3.152
+Distance from Target Location: 14.026257
+Current Location: LocationGlobalRelative:lat=2.9096748,lon=101.6553786,alt=3.119
+Distance from Target Location: 14.003993
+Current Location: LocationGlobalRelative:lat=2.9096706,lon=101.6553744,alt=3.036
+Distance from Target Location: 13.536451
+Current Location: LocationGlobalRelative:lat=2.9096607,lon=101.6553678,alt=3.144
+Distance from Target Location: 12.434388
+Current Location: LocationGlobalRelative:lat=2.9096444,lon=101.655357,alt=3.3
+Distance from Target Location: 10.619880
+Current Location: LocationGlobalRelative:lat=2.9096292,lon=101.6553469,alt=3.354
+Distance from Target Location: 8.927824
+Current Location: LocationGlobalRelative:lat=2.9096085,lon=101.6553316,alt=3.363
+Distance from Target Location: 6.623510
+Current Location: LocationGlobalRelative:lat=2.9095863,lon=101.6553151,alt=3.291
+Distance from Target Location: 4.152217
+Current Location: LocationGlobalRelative:lat=2.909565,lon=101.655301,alt=3.209
+Distance from Target Location: 1.781112
+Current Location: LocationGlobalRelative:lat=2.9095536,lon=101.6552948,alt=3.118
+Distance from Target Location: 0.512070
+Reached Target Location
+
+Heading to Target Location 2: LocationGlobalRelative:lat=2.9094377999999996,lon=101.655263,alt=3.0
+Current Location: LocationGlobalRelative:lat=2.909549,lon=101.6552958,alt=2.955
+Distance from Target Location: 12.378728
+Current Location: LocationGlobalRelative:lat=2.9095475,lon=101.6552968,alt=2.916
+Distance from Target Location: 12.211749
+Current Location: LocationGlobalRelative:lat=2.9095413,lon=101.6552946,alt=2.917
+Distance from Target Location: 11.521568
+Current Location: LocationGlobalRelative:lat=2.9095305,lon=101.655291,alt=3.018
+Distance from Target Location: 10.319318
+Current Location: LocationGlobalRelative:lat=2.9095126,lon=101.655285,alt=3.168
+Distance from Target Location: 8.326699
+Current Location: LocationGlobalRelative:lat=2.9094903,lon=101.6552785,alt=3.248
+Distance from Target Location: 5.844274
+Current Location: LocationGlobalRelative:lat=2.9094671,lon=101.6552723,alt=3.304
+Distance from Target Location: 3.261661
+Current Location: LocationGlobalRelative:lat=2.909452,lon=101.6552675,alt=3.314
+Distance from Target Location: 1.580737
+Current Location: LocationGlobalRelative:lat=2.9094393,lon=101.6552629,alt=3.161
+Distance from Target Location: 0.166979
+Reached Target Location
+
+Heading to Target Location 3: LocationGlobalRelative:lat=2.9094405,lon=101.6553958,alt=3.0
+Current Location: LocationGlobalRelative:lat=2.9094371,lon=101.6552627,alt=2.988
+Distance from Target Location: 0.378486
+Reached Target Location
+
+Heading to Target Location 4: LocationGlobalRelative:lat=2.9095222,lon=101.6554749,alt=3.0
+Current Location: LocationGlobalRelative:lat=2.9094394,lon=101.6552717,alt=3.09
+Distance from Target Location: 9.217255
+Current Location: LocationGlobalRelative:lat=2.9094418,lon=101.6552857,alt=3.186
+Distance from Target Location: 8.950088
+Current Location: LocationGlobalRelative:lat=2.9094481,lon=101.6553048,alt=3.337
+Distance from Target Location: 8.248775
+Current Location: LocationGlobalRelative:lat=2.909457,lon=101.6553281,alt=3.395
+Distance from Target Location: 7.258031
+Current Location: LocationGlobalRelative:lat=2.9094654,lon=101.6553471,alt=3.398
+Distance from Target Location: 6.322948
+Current Location: LocationGlobalRelative:lat=2.9094778,lon=101.655373,alt=3.415
+Distance from Target Location: 4.942586
+Current Location: LocationGlobalRelative:lat=2.9094901,lon=101.6553994,alt=3.326
+Distance from Target Location: 3.573356
+Current Location: LocationGlobalRelative:lat=2.9095026,lon=101.6554236,alt=3.178
+Distance from Target Location: 2.181862
+Current Location: LocationGlobalRelative:lat=2.9095139,lon=101.6554467,alt=3.057
+Distance from Target Location: 0.923952
+Reached Target Location
+
+Heading to Target Location 5: LocationGlobalRelative:lat=2.909624,lon=101.6554897,alt=3.0
+Current Location: LocationGlobalRelative:lat=2.9095232,lon=101.6554692,alt=2.914
+Distance from Target Location: 11.221006
+Current Location: LocationGlobalRelative:lat=2.909522,lon=101.6554701,alt=2.94
+Distance from Target Location: 11.354589
+Current Location: LocationGlobalRelative:lat=2.9095261,lon=101.6554693,alt=2.91
+Distance from Target Location: 10.898179
+Current Location: LocationGlobalRelative:lat=2.9095396,lon=101.6554716,alt=2.96
+Distance from Target Location: 9.395366
+Current Location: LocationGlobalRelative:lat=2.9095556,lon=101.6554733,alt=2.98
+Distance from Target Location: 7.614254
+Current Location: LocationGlobalRelative:lat=2.90958,lon=101.6554754,alt=3.127
+Distance from Target Location: 4.898058
+Current Location: LocationGlobalRelative:lat=2.9096062,lon=101.6554802,alt=3.114
+Distance from Target Location: 1.981487
+Current Location: LocationGlobalRelative:lat=2.9096253,lon=101.655485,alt=3.18
+Distance from Target Location: 0.144715
+Reached Target Location
+Mission completed, vehicle returning to launch.
+Closing vehicle object
+Traceback (most recent call last):
+  File "main.py", line 34, in <module>
+    if config.sitl:
+AttributeError: module 'config' has no attribute 'sitl'
