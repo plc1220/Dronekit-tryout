@@ -9,7 +9,7 @@ def init():
     global vehicle
     ## Works for Windows SITL
     #Set up option parsing to get connection string
-    CoSe = input('Enter Desired Connection way: \n1) USB\n2) Home\n3)TCP\n4)COM')
+    CoSe = input('Enter Desired Connection way: \n1) USB\n2) Home\n3)TCP\n4)COM\nEnter:')
 
     if CoSe == '1':
         connection_string =  '/dev/ttyUSB0'
